@@ -1,5 +1,3 @@
-# version1.py
-
 import json
 from collections import defaultdict
 from sentence_transformers import SentenceTransformer
